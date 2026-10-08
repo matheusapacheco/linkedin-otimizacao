@@ -51,6 +51,13 @@ Atualizado em: DD/MM/AAAA
 - Quer produzir conteúdo: sim ou não
 - Cadência de conteúdo:
 - Temas de autoridade:
+- Táticas vetadas pela pessoa (por exemplo, priming, DM para pares, conexão fria):
+
+## Textos aprovados
+- Título aprovado (data):
+- Sobre aprovado (data):
+- Experiências aprovadas (data):
+- Versão em outro idioma (data):
 
 ## Lacunas abertas
 - [LACUNA] item, com o impacto no resultado

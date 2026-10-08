@@ -127,6 +127,11 @@ O que destrava: filtro de vagas e abordagem.
 **5.4 Temas e assuntos proibidos (B)**
 Texto livre: "Tem algum assunto que você não quer que apareça no perfil ou nas mensagens?"
 
+**5.5 Táticas que você não quer usar (B)**
+Pergunta de múltipla escolha: "Alguma dessas táticas você não quer que eu proponha?"
+Opções: Priming (interagir antes de postar) | Mandar post por mensagem direta para conhecidos | Conexão com perfis frios | Nenhuma, pode propor
+O que destrava: o que as skills de conteúdo e engajamento nunca sugerem. Gravar em `perfil.md`, campo de táticas vetadas.
+
 ---
 
 ## Bloco 6: conteúdo (nível C, só se a pessoa quiser postar)
