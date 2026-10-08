@@ -1,0 +1,20 @@
+{
+  "name": "linkedin-otimizacao",
+  "version": "0.1.0",
+  "description": "Otimização completa de LinkedIn para conseguir entrevistas mais rápido: entrevista de onboarding com leitura de CV, auditoria e reescrita do perfil seção por seção, palavras-chave, CV para ATS, networking e plano de ação de 90 dias.",
+  "author": {
+    "name": "Matheus Pacheco",
+    "url": "https://matheuspacheco.com.br"
+  },
+  "license": "UNLICENSED",
+  "keywords": [
+    "linkedin",
+    "perfil",
+    "recolocacao",
+    "carreira-internacional",
+    "palavras-chave",
+    "ats",
+    "networking",
+    "onboarding"
+  ]
+}
